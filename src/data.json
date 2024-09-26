@@ -84,20 +84,20 @@
               ]
             },
             {
-              "title": "Add account management endpoints",
+              "title": "New Project",
               "description": "",
               "status": "Doing",
               "subtasks": [
                 {
-                  "title": "Upgrade plan",
+                  "title": "Project discuss",
                   "isCompleted": true
                 },
                 {
-                  "title": "Cancel plan",
+                  "title": "Project plannig",
                   "isCompleted": true
                 },
                 {
-                  "title": "Update payment method",
+                  "title": "Project execution",
                   "isCompleted": false
                 }
               ]
@@ -152,20 +152,20 @@
               ]
             },
             {
-              "title": "Research pricing points of various competitors and trial different business models",
-              "description": "We know what we're planning to build for version one. Now we need to finalise the first pricing model we'll use. Keep iterating the subtasks until we have a coherent proposition.",
+              "title": "Bills pay",
+              "description": "All bill payment",
               "status": "Doing",
               "subtasks": [
                 {
-                  "title": "Research competitor pricing and business models",
+                  "title": "Rent pay",
                   "isCompleted": true
                 },
                 {
-                  "title": "Outline a business model that works for our solution",
+                  "title": "Water bill",
                   "isCompleted": false
                 },
                 {
-                  "title": "Talk to potential customers about our proposed solution and ask for fair price expectancy",
+                  "title": "Electric bill",
                   "isCompleted": false
                 }
               ]
@@ -277,7 +277,7 @@
       ]
     },
     {
-      "name": "Marketing Plan",
+      "name": "Tomorrow",
       "isActive" : false,
       "columns": [
         {
